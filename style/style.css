@@ -23,7 +23,7 @@ body {
   align-items: center;
   position: relative;
 }
-.profile-card::before{
+.profile-card::before {
   content: "";
   position: absolute;
   height: 36%;
@@ -31,8 +31,7 @@ body {
   background-color: #4070f4;
   top: 0;
   left: 0;
-  border-radius: 24px 24px 0 0 ;
-
+  border-radius: 24px 24px 0 0;
 }
 .image {
   position: relative;
